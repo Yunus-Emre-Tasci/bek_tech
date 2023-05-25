@@ -17,6 +17,7 @@ pnpm dev
 - `redux`
 - `@reduxjs/toolkit`
 - `react-redux`
+- `redux-persist`
 - `axios`
 - `next`
 - `next-redux-wrapper`
